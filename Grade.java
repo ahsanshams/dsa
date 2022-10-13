@@ -9,6 +9,7 @@ public class Grade {
                 int x = arr[i] + 2;
                 System.out.println(x);
             }
+            //test case not run
             else{
                 System.out.println(arr[i]);
             }
